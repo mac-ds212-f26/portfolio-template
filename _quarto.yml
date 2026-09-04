@@ -60,7 +60,7 @@ book:
     - text: "Welcome"
       href: index.qmd
 
-    - part: "Prof Viz"
+    - part: "Personal Viz Journey"
       chapters:
       - pvj/pvj-01.qmd
 
