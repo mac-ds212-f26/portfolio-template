@@ -62,7 +62,7 @@ book:
 
     - part: "Prof Viz"
       chapters:
-      - pv/pv-01.qmd
+      - pvj/pvj-01.qmd
 
     - part: "TidyTuesday"
       chapters:
